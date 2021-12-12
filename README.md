@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarth220194
 - 👀 I’m interested in exploring new tech and embracing new innovations
-- 🌱 I’m currently learning Reactive programming and also starting technical blogs
+- 🌱 I’m currently learning Reactive programming and also starting with some technical blogs
 - 📫 How to reach me - +91-9044527784, samarth220194@gmail.com
 
 <!---
